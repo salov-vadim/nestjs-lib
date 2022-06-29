@@ -1,5 +1,5 @@
 {
-  "name": "@superordinaryco/test",
+  "name": "@superordinaryvs/test",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -9,9 +9,9 @@
     "./lib/**/*"
   ],
   "private": false,
-  "repository": "git://github.com/SuperOrdinaryCo/test.git",
+  "repository": "git://github.com/salov-vadim/nestjs-lib",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/SuperOrdinaryCo"
+    "registry": "https://npm.pkg.github.com/SuperOrdinaryTest"
   },
   "license": "UNLICENSED",
   "scripts": {
